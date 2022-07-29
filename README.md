@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using this tutorial: https://thecodemon.com/react-tutorial-how-to-create-sankey-diagram-in-react-with-google-charts/
 
 ## Available Scripts
 
